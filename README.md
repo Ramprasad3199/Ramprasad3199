@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm Ram Prasad G</h1>
-<h3 align="center">A passionate android developer from Chennai</h3>
-
+<h1 align="center">Hi , I'm Ramprasad G <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <em>
+    Hello, I am Ramprasad
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Android developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>Dedicated</b>
+    to <b>  continuously developing, implementing, and adopting new technologies </b> to maximize development efficiency and produce innovative applications.
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaduraim1999&label=Profile%20views&color=0e75b6&style=flat" alt="rajaduraim1999" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rajaduraim1999" target="blank"><img src="https://img.shields.io/twitter/follow/rajaduraim1999?logo=twitter&style=for-the-badge" alt="rajaduraim1999" /></a> </p>
+
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
